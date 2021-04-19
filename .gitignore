@@ -4,6 +4,11 @@
 *.dll
 *.so
 *.dylib
+/hdawake
+/cmd/hdawake/hdawake
+
+# Default output
+.awake
 
 # Test binary, built with `go test -c`
 *.test
